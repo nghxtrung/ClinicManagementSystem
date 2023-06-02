@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pet project\\ClinicManagementSystem\\Domain\\Domain.csproj": {}
+    "C:\\Users\\trung.nx\\Downloads\\ClinicManagementSystem\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Pet project\\ClinicManagementSystem\\Domain\\Domain.csproj": {
+    "C:\\Users\\trung.nx\\Downloads\\ClinicManagementSystem\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pet project\\ClinicManagementSystem\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\trung.nx\\Downloads\\ClinicManagementSystem\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Pet project\\ClinicManagementSystem\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\trung.nx\\Downloads\\ClinicManagementSystem\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\trung.nx\\.nuget\\packages\\",
-        "outputPath": "D:\\Pet project\\ClinicManagementSystem\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\trung.nx\\Downloads\\ClinicManagementSystem\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trung.nx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

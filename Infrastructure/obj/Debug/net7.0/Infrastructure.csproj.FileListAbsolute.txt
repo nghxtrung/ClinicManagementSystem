@@ -1,0 +1,15 @@
+D:\Pet project\ClinicManagementSystem\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\Pet project\ClinicManagementSystem\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\Pet project\ClinicManagementSystem\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\Pet project\ClinicManagementSystem\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\Pet project\ClinicManagementSystem\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\Pet project\ClinicManagementSystem\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Pet project\ClinicManagementSystem\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pet project\ClinicManagementSystem\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Pet project\ClinicManagementSystem\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\Pet project\ClinicManagementSystem\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Pet project\ClinicManagementSystem\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\Pet project\ClinicManagementSystem\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\Pet project\ClinicManagementSystem\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\Pet project\ClinicManagementSystem\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\Pet project\ClinicManagementSystem\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

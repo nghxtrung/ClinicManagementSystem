@@ -1,0 +1,12 @@
+D:\Pet project\ClinicManagementSystem\Report\bin\Debug\net7.0\Report.deps.json
+D:\Pet project\ClinicManagementSystem\Report\bin\Debug\net7.0\Report.dll
+D:\Pet project\ClinicManagementSystem\Report\bin\Debug\net7.0\Report.pdb
+D:\Pet project\ClinicManagementSystem\Report\obj\Debug\net7.0\Report.csproj.AssemblyReference.cache
+D:\Pet project\ClinicManagementSystem\Report\obj\Debug\net7.0\Report.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pet project\ClinicManagementSystem\Report\obj\Debug\net7.0\Report.AssemblyInfoInputs.cache
+D:\Pet project\ClinicManagementSystem\Report\obj\Debug\net7.0\Report.AssemblyInfo.cs
+D:\Pet project\ClinicManagementSystem\Report\obj\Debug\net7.0\Report.csproj.CoreCompileInputs.cache
+D:\Pet project\ClinicManagementSystem\Report\obj\Debug\net7.0\Report.dll
+D:\Pet project\ClinicManagementSystem\Report\obj\Debug\net7.0\refint\Report.dll
+D:\Pet project\ClinicManagementSystem\Report\obj\Debug\net7.0\Report.pdb
+D:\Pet project\ClinicManagementSystem\Report\obj\Debug\net7.0\ref\Report.dll
